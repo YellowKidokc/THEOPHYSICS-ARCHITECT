@@ -1,0 +1,9 @@
+{
+    "id": "theophysics-architect",
+    "name": "Theophysics Architect",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "The structural engine. Tracks the evolution of ideas: Signal -> Pattern -> Constant. Generates visual Breakthrough Maps and Global Dashboards in Data Analytics.",
+    "author": "David Lowe & Claude",
+    "isDesktopOnly": false
+}
